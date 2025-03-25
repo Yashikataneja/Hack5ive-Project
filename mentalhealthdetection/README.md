@@ -1,8 +1,8 @@
 # Detection-of-Anxiety-and-Depression
-Detecting Anxiety and Depression using facial emotion recognition and speech emotion recognition. Written in pythonPython
+Detecting Anxiety and Depression using facial emotion recognition and speech emotion recognition
 
 INSTRUCTIONS 
-Clone the repository
+
 
 1. pip install virtualenv
 2. face/Scripts/activate
